@@ -8,12 +8,6 @@
 - 🌱 Currently learning Jetpack Compose
 - 📫 Reach me: zahraaarayaaa@gmail.com
 
-## 🚀 Languages & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,mysql,git,github,vscode" />
-</p>
-
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=zhraarayaa&show_icons=true&theme=tokyonight)
