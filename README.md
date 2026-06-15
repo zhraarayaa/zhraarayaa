@@ -3,22 +3,27 @@
 <h3 align="center">💜 Informatics Student | 📱 Android Developer | 🤖 AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Android+Developer;Informatics+Student;AI+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Android+Developer;Informatics+Student;AI+Enthusiast;Jetpack+Compose+Learner;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Student at Universitas Darussalam Gontor
+* 🎓 Student at Universitas Darussalam Gontor
+* 📱 Currently learning Android Development & Jetpack Compose
+* 🤖 Interested in AI, Machine Learning, and Mobile Apps
+* 🌐 Exploring Web Development
+* 💡 Passionate about building useful digital products
 
-📱 Currently learning Android Development & Jetpack Compose
+---
 
-🤖 Interested in AI, Machine Learning & Mobile Apps
+## 🚀 Current Goals
 
-🌐 Exploring Web Development
-
-💡 Passionate about building useful digital products
+* 📱 Build more Android Projects
+* 🤖 Learn AI & Machine Learning
+* 🌐 Improve Web Development Skills
+* 💼 Gain Professional Experience
 
 ---
 
@@ -30,11 +35,11 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/zahraaraya">
+<a href="https://www.linkedin.com/in/zahraaraya">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://tiktok.com/@ayayawae27_">
+<a href="https://www.tiktok.com/@ayayawae27_">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
@@ -53,7 +58,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,mysql,python,html,css,javascript,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,mysql,python,html,css,javascript,git,github,vscode,figma" />
 </p>
 
 ---
@@ -61,9 +66,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zhraarayaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zhraarayaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhraarayaa&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhraarayaa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -71,7 +76,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=zhraarayaa&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=zhraarayaa&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -79,7 +84,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhraarayaa&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhraarayaa&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -87,19 +92,21 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/zhraarayaa/zhraarayaa/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/zhraarayaa/zhraarayaa/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 💜 Quote
+## 💜 Favorite Quote
 
-> "Every expert was once a beginner."
+<p align="center">
+<i>"Turning ideas into Android apps, one line of code at a time."</i>
+</p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=zhraarayaa&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=zhraarayaa&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 <p align="center">
